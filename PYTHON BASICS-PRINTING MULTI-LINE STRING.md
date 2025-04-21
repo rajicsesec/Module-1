@@ -1,34 +1,37 @@
-# Experiment No: 1 Python Basics- Printing Multiline String
+# Experiment No: 1 Python Basics- program to print 'S'  and 'k' using character literal.
 
 ## AIM  
-To create a Python program to print the string in multiple lines using triple quotes.
+To create a Python program to print 'S'  and 'k' using character literal.
 
 ## ALGORITHM  
-1. Begin the program.  
-2. Use triple quotes (`'''` or `"""`) to define a string that spans multiple lines.  
-3. Use the `print()` function to display the multi-line string.  
-4. Terminate the program.
+
+Start.
+
+Declare two variables to store characters.
+
+Assign 'S' to the first variable.
+
+Assign 'k' to the second variable.
+
+Print the value of the first variable.
+
+Print the value of the second variable.
+
+End.
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+# Reg.No-212223020008
+# Name-Yazhini.N
 
-string_single_quotes = '''I am a string literal
-... has more than one
-... line
-... placed inside triple single quotes'''
-
-string_double_quotes = """I am a string literal
-... has more than one
-... line
-... placed inside triple double quotes"""
-
-print(string_single_quotes)
-print(string_double_quotes)
+v = 'S'
+w = "k"
+ 
+print(v)
+print(w)
 ```
 ## OUTPUT
 
-## RESULT
 
+## RESULT
+Thus , 'S'  and 'k' using character literal is printed.
